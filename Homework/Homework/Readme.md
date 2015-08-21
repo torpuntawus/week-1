@@ -6,7 +6,7 @@
 # Questions
 * Why we need "if-else" in function process?
 
-Answer: if not use if-else loop when we input 1! we will get answer = 0. 
+Answer: if not use if-else loop when we input 0! we will get answer = 0 not = 1. 
 
 
 # Resources
