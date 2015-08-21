@@ -5,10 +5,10 @@
 * Revise the code such that it can accept input from command line, put your commit number and answer question 1 below
 
 ## Revision, put your commit number here
-* Three functions:
-* Get input from command line:
+* Three functions: f2cc2209
+* Get input from command line: d729a33e
 
 ## Questions
 1. What are the limitations of your new code?
 
-Answer:
+Answer: Can't get input in string type.
