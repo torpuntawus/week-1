@@ -19,7 +19,7 @@ namespace Lab1_2
 
          public int[] inputFunc()
          {
-             int num;
+             int num; 
 
              Console.WriteLine("Input how many integers: ");
              num = Convert.ToInt32(Console.ReadLine());
